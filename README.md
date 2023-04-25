@@ -31,7 +31,7 @@
 
 Clone the repository
 
-`https://github.com/entbappy/cnnClassifier`
+`https://github.com/gbiamgaurav/cnnClassifier.git`
 
 ### STEP 01- Create a conda environment after opening the repository
 
