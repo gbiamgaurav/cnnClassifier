@@ -23,3 +23,7 @@
 7. Update the pipeline
 
 8. Update main.py
+
+## Run the tensorboard on localhost
+
+`tensorboard --logdir=artifacts/prepare_callbacks/tensorboard_log_dir/`
