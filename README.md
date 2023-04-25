@@ -97,7 +97,7 @@ Email: gaurav.bhattacharya10@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 794696279387.dkr.ecr.us-east-1.amazonaws.com/catdog
+    - Save the URI: 794696279387.dkr.ecr.us-east-1.amazonaws.com/cat_dog
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -135,4 +135,4 @@ Email: gaurav.bhattacharya10@gmail.com
 
     AWS_ECR_LOGIN_URI = demo>>  794696279387.dkr.ecr.us-east-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = catdog
+    ECR_REPOSITORY_NAME = cat_dog
